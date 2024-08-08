@@ -5,12 +5,4 @@
 *       @default-owner @shiwangsagar
 
 # Specify owners for specific directories
-<!-- /docs/  @docs-team
-/src/   @dev-team
 
-# Specify owners for specific files
-README.md   @docs-team
-main.py     @dev-team
-
-# Specify owners for specific file types
-*.js    @frontend-team
