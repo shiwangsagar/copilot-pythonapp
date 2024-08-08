@@ -1,0 +1,16 @@
+# This is a comment
+# Each line is a file pattern followed by one or more owners
+
+# Specify the default owners for the entire repository
+*       @default-owner @shiwangsagar
+
+# Specify owners for specific directories
+<!-- /docs/  @docs-team
+/src/   @dev-team
+
+# Specify owners for specific files
+README.md   @docs-team
+main.py     @dev-team
+
+# Specify owners for specific file types
+*.js    @frontend-team
