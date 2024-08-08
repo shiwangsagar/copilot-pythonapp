@@ -14,4 +14,3 @@ main.py     @dev-team
 
 # Specify owners for specific file types
 *.js    @frontend-team
-*.py    @backend-team -->
